@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React,Spring boot, Git and SQL**
 
-- 📫 How to reach me **sunilkharsu02@gmail.com**
+- 📫 How to reach me **sunilkharsu20@gmail.com**
 
 - ⚡ Fun fact **I think i m funny 😁**
 
